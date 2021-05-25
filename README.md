@@ -12,3 +12,5 @@ parent: Contributing to Conduit
 ![Design 4](./Design/04.png)
 ![Design 5](./Design/05.png)
 ![Design 6](./Design/06.png)
+![Design 7](./Design/07.png)
+
