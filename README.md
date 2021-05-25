@@ -1,4 +1,4 @@
-# react-native-sports-app-tabletUI-design-example
+# react-native-sports-app-tabletUI
 ---
 layout: default
 title: Class Diagram
